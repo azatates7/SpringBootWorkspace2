@@ -1,0 +1,12 @@
+2019-12-20 00:16:46.426 ERROR 13167 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is an error log example
+2019-12-20 00:16:46.431 FATAL 13167 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is a fatal log example
+2019-12-20 00:16:46.431  WARN 13167 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is a warn log example
+2019-12-20 00:17:08.899 ERROR 13271 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is an error log example
+2019-12-20 00:17:08.903 FATAL 13271 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is a fatal log example
+2019-12-20 00:17:08.904  WARN 13271 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is a warn log example
+2019-12-20 00:18:42.515 ERROR 13371 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is an error log example
+2019-12-20 00:18:42.520 FATAL 13371 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is a fatal log example
+2019-12-20 00:18:42.520  WARN 13371 --- [http-nio-8080-exec-1] s.c.Log4jController                      : This is a warn log example
+2019-12-20 00:18:56.630 ERROR 13371 --- [http-nio-8080-exec-5] s.c.Log4jController                      : This is an error log example
+2019-12-20 00:18:56.631 FATAL 13371 --- [http-nio-8080-exec-5] s.c.Log4jController                      : This is a fatal log example
+2019-12-20 00:18:56.632  WARN 13371 --- [http-nio-8080-exec-5] s.c.Log4jController                      : This is a warn log example
